@@ -5,7 +5,7 @@ It is my 2nd project of BSC(CS) final year.
 ### About the Game Project:-
 
 - JUMP DOGGING gaming project is developed using Unity Game engine. The Language used for the development of the gaming project is C#. 
-- It is a 2D Multiplayer game. There will be two player i.e. player left and player right. 
+- It is a **2D Multiplayer** game. There will be two player i.e. player left and player right. 
 - It is a 2D arcade game where the both the player has to dodge and jump from obstacles and collect the bars which will increase their points. 
 - The player with highest points will win the game.
 - “Jump Dogging” is a 2D Multiplayer game. The player will progress through various challenges in the gaming environment.
@@ -15,8 +15,8 @@ It is my 2nd project of BSC(CS) final year.
 2. The bars will appear randomly on both the side.
 
 **Controller keys:** 
-- Left Player : A Button
-- Right Player:  Right arrow key
+- Left Player : **A Button**
+- Right Player: **Right arrow key**
 
 ### Screenshots: 
 1. Game Start
