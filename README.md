@@ -1,6 +1,6 @@
 # JUMP-DOGGING
 ### Information:
-It is my 2nd project of BSC(CS) final year. 
+It is my 2nd project of BSC(CS) final year.i.e sem 6 
 
 ### About the Game Project:-
 
