@@ -14,7 +14,7 @@ It is my 2nd project of BSC(CS) final year.i.e sem 6
 1. Player left have to collect **red colour bars** and player right have to collect **blue colour bars**.
 2. The bars will appear randomly on both the side.
 
-**Controller keys:** 
+**Controller keys:-** 
 - Left Player : **A Button**
 - Right Player: **Right arrow key** 
 
