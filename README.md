@@ -16,7 +16,7 @@ It is my 2nd project of BSC(CS) final year.i.e sem 6
 
 **Controller keys:** 
 - Left Player : **A Button**
-- Right Player: **Right arrow key**
+- Right Player: **Right arrow key** 
 
 ### Screenshots: 
 1. Game Start
